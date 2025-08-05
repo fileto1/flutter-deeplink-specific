@@ -1,0 +1,1 @@
+Este projeto servirá para testar deep links no projeto do flutter
